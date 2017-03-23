@@ -1,0 +1,29 @@
+/* Empty. Add your own CSS if you like */
+.title {
+  background-color: #27EBFF;
+}
+
+#firstName-textarea {
+  background-color: #C7F408;
+  padding: 10px;
+}
+
+#lastName-textarea{
+  background-color: #C7F408;
+  padding: 10px;
+}
+
+#phoneNumber-textarea {
+  background-color: #C7F408;
+  padding: 10px;
+}
+
+#email-textarea{
+  background-color: #C7F408;
+  padding: 10px;
+}
+
+.button-full {
+  background-color: #0d3349;
+  color: red;
+}
